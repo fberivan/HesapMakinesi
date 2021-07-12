@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="entervalue">Enter a value for operation...</string>
+    <string name="action_settings">Settings</string>
+    <string name="dil">Language</string>
+    <string name="largeerror">Number is too big\nCommand reset!</string>
+    <string name="null_islem">Please enter numbers!</string>
+</resources>

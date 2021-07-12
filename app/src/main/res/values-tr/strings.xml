@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hesap Makinesi</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="entervalue">İşlem için değer girin...</string>
+    <string name="dil">Dil</string>
+    <string name="largeerror">Sayı çok büyük\nişlem sıfırlandı!</string>
+    <string name="null_islem">Lütfen sayıları girin!</string>
+</resources>
